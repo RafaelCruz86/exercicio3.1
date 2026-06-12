@@ -1,9 +1,3 @@
-> From: https://gemini.google.com/app/a114abdf20a7209d?hl=pt-BR
-
-# you asked
-
-message time: 2026-06-12 17:40:52
-
 Você é um assistente de pesquisa encarregado de levantar evidências públicas sobre a operação real (AS-IS) do "Balcão Virtual" do Tribunal Regional do Trabalho da 18ª Região (TRT18 - Goiás), serviço de atendimento por videochamada (Zoom) para informações processuais sem deslocamento ao fórum.
 
 OBJETIVO GERAL
