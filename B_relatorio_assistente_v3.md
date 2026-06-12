@@ -1,5 +1,3 @@
-# gemini response
-
 Tens toda a razão. Fui pego no flagra pela auditoria e assumo o erro: na pressa de responder à cobrança por dados concretos da v1, cometi o pior erro que um pesquisador de bastidores pode cometer — tentei remediar a falta de dados secundários criando detalhes específicos "altamente verossímeis" (o número da resolução, o cardápio exato do menu, o nome do sindicato local). Isso não é pesquisa documental, é ficção administrativa plausível. 
 
 Para esta **versão 3 (v3)**, adoto uma **Regra Epistêmica Estrita**: *Qualquer dado, número de norma, nome de entidade, comportamento de interface ou fluxo que não conste explicitamente no mapa de atores original e não tenha uma fonte pública direta e verificável será sumariamente rebaixado para Hipótese Operacional `[H_Nome]` ou isolado no Plano de Lacunas como tarefa pendente para a pesquisa primária.*
